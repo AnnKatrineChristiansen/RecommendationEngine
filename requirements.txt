@@ -8,3 +8,4 @@ matplotlib
 numpy==1.19.5
 tqdm
 voila==0.2.10
+ipykernel
