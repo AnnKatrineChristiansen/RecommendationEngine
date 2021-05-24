@@ -7,4 +7,6 @@ seaborn
 matplotlib
 numpy
 tqdm
-datetime 
+datetime
+xlrd
+openpyxl
